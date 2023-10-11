@@ -24,7 +24,7 @@ This repository contains the materials and resources required to complete the NA
 - Don't be afraid to ask for help. The Nand2Tetris forum is a great resource for getting help from other users.
 - Use the Nand2Tetris simulator to test your hardware design and assembly language programs.
 - Don't give up! Nand2Tetris is a challenging project, but it is also very rewarding.
-- Cool Game that only covers a small part of the material in the above course, and is mostly intended as a fun exercise. [The nand game](https://nandgame.com/about)
+- Cool Game that only covers a small part of the material in the above course, and is mostly intended as a fun exercise. [The nand game](https://nandgame.com)
 
 ## Getting Started
 
