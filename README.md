@@ -4,7 +4,6 @@
 
 [The official website of Nand to Tetris courses](https://www.nand2tetris.org)
 
-
 Welcome to the NAND2Tetris project repository! This project is an exciting journey that takes you from building a basic computer using NAND gates all the way to creating a simple computer game. It's a fantastic opportunity to learn about computer architecture and gain hands-on experience in creating software from the ground up.
 
 
@@ -25,6 +24,7 @@ This repository contains the materials and resources required to complete the NA
 - Don't be afraid to ask for help. The Nand2Tetris forum is a great resource for getting help from other users.
 - Use the Nand2Tetris simulator to test your hardware design and assembly language programs.
 - Don't give up! Nand2Tetris is a challenging project, but it is also very rewarding.
+- Cool Game that only covers a small part of the material in the above course, and is mostly intended as a fun exercise. [The nand game](https://nandgame.com/about)
 
 ## Getting Started
 
