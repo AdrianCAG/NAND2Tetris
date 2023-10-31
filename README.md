@@ -25,6 +25,7 @@ This repository contains the materials and resources required to complete the NA
 - Use the Nand2Tetris simulator to test your hardware design and assembly language programs.
 - Don't give up! Nand2Tetris is a challenging project, but it is also very rewarding.
 - Cool Game that only covers a small part of the material in the above course, and is mostly intended as a fun exercise. [The nand game](https://nandgame.com)
+- This repository offers supplementary resources beyond the standard lectures and assignments. You'll find additional materials, such as PDFs containing detailed explanations specific to individual projects or lectures, enhancing your learning experience.
 
 ## Getting Started
 
